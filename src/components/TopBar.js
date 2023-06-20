@@ -44,10 +44,8 @@ function TopBar(){
 						</li>
 
 					</ul>
-
 				</nav>
 				{/*<!-- End of Topbar -->*/}
-
         </React.Fragment>
     )
 }
